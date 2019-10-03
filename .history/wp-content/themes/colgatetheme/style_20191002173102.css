@@ -1,0 +1,24 @@
+.banner {
+    height: 25em;
+    background-image: linear-gradient(#009fff,
+    #323dd5);
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    padding-top: 2em;
+}
+
+h1,h2,h3,h4 {
+    font-family: Calibri;
+    color: 
+    wheat;
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 1em;
+}
+
+h1{
+    font-size: 2.5em;
+}

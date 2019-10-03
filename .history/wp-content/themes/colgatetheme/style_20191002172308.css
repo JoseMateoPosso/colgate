@@ -1,0 +1,11 @@
+.banner {
+    height: 25em;
+    background-image: linear-gradient(#009fff,
+    #323dd5);
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    padding-top: 2em;
+}

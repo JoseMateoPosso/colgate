@@ -1,0 +1,52 @@
+.banner {
+    height: 25em;
+    background-image: linear-gradient(#009fff,
+    #323dd5);
+    margin-bottom: 2em;
+}
+
+img {
+    display: block;
+    padding-top: 2em;
+    margin: 0 auto;
+}
+
+h1,h2,h3,h4 {
+    font-family: Calibri;
+    color: 
+    wheat;
+    text-align: center;
+}
+
+h1{
+    font-size: 2em;
+    text-transform: capitalize;
+}
+
+/*
+h2{
+    opacity: 0.9;
+}
+*/
+
+
+iframe {
+    margin: 0 auto;
+    display: block;
+    margin-top: 1.5em;
+}
+
+canvas {
+    margin-left: 50%;
+}
+
+.opacity {
+    opacity: .5;
+}
+
+
+@media (max-width : 992px) {
+    #myImage {
+        height: 4em;
+    }   
+}
